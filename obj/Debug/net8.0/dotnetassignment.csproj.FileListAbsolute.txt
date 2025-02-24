@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\dotnetassignment\bin\Debug\net8.0\dotnetassignment.exe
+C:\Users\HP\Desktop\dotnetassignment\bin\Debug\net8.0\dotnetassignment.deps.json
+C:\Users\HP\Desktop\dotnetassignment\bin\Debug\net8.0\dotnetassignment.runtimeconfig.json
+C:\Users\HP\Desktop\dotnetassignment\bin\Debug\net8.0\dotnetassignment.dll
+C:\Users\HP\Desktop\dotnetassignment\bin\Debug\net8.0\dotnetassignment.pdb
+C:\Users\HP\Desktop\dotnetassignment\obj\Debug\net8.0\dotnetassignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\dotnetassignment\obj\Debug\net8.0\dotnetassignment.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\dotnetassignment\obj\Debug\net8.0\dotnetassignment.AssemblyInfo.cs
+C:\Users\HP\Desktop\dotnetassignment\obj\Debug\net8.0\dotnetassignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\dotnetassignment\obj\Debug\net8.0\dotnetassignment.sourcelink.json
+C:\Users\HP\Desktop\dotnetassignment\obj\Debug\net8.0\dotnetassignment.dll
+C:\Users\HP\Desktop\dotnetassignment\obj\Debug\net8.0\refint\dotnetassignment.dll
+C:\Users\HP\Desktop\dotnetassignment\obj\Debug\net8.0\dotnetassignment.pdb
+C:\Users\HP\Desktop\dotnetassignment\obj\Debug\net8.0\dotnetassignment.genruntimeconfig.cache
+C:\Users\HP\Desktop\dotnetassignment\obj\Debug\net8.0\ref\dotnetassignment.dll

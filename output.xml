@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PeopleList>
+  <Person>
+    <Name>Bob</Name>
+    <Age>12</Age>
+    <Skills>
+      <Skill>Scratch</Skill>
+      <Skill>HTML</Skill>
+      <Skill>Python</Skill>
+    </Skills>
+  </Person>
+  <Person>
+    <Name>Sally</Name>
+    <Age>11</Age>
+    <Skills>
+      <Skill>JavaScript</Skill>
+      <Skill>Minecraft Modding</Skill>
+      <Skill>Drawing</Skill>
+    </Skills>
+  </Person>
+</PeopleList>

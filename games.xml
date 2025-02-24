@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<FavoriteGames>
+  <Game>
+    <Name>Minecraft</Name>
+    <Type>Sandbox</Type>
+    <ReleaseYear>2011</ReleaseYear>
+    <HasCreativeMode>True</HasCreativeMode>
+  </Game>
+  <Game>
+    <Name>Roblox</Name>
+    <Type>Platform</Type>
+    <ReleaseYear>2006</ReleaseYear>
+    <HasCreativeMode>True</HasCreativeMode>
+  </Game>
+  <Game>
+    <Name>Fortnite</Name>
+    <Type>Battle Royale</Type>
+    <ReleaseYear>2017</ReleaseYear>
+    <HasCreativeMode>False</HasCreativeMode>
+  </Game>
+</FavoriteGames>

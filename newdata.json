@@ -1,0 +1,22 @@
+{
+  "People": [
+    {
+      "Name": "Bob",
+      "Age": 12,
+      "Skills": [
+        "Scratch",
+        "HTML",
+        "Python"
+      ]
+    },
+    {
+      "Name": "Sally",
+      "Age": 11,
+      "Skills": [
+        "JavaScript",
+        "Minecraft Modding",
+        "Drawing"
+      ]
+    }
+  ]
+}
